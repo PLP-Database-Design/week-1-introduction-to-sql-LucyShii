@@ -1,10 +1,12 @@
 
 ### 1. State and Explain the components of a DBMS(Database Management System)
-Database Engine: Manages data storage, retrieval, and processing.
-Query Processor: Executes user queries and commands.
-Data Definition: Defines and modifies database structure.
-Data Security: Ensures data protection and access control.
-Data Storage: Organizes data on physical storage.
+Software: The DBMS application that manages data storage, retrieval, and processing (e.g., MySQL, Oracle DB).
+Hardware: Physical devices where the database resides, such as servers, storage systems, and networks.
+Data: The actual data stored in tables, along with metadata that describes its structure.
+Database Schema: The logical structure of the database, defining tables, relationships, and constraints.
+Users:
+End Users: Interact with the database for querying or reporting.
+Database Administrators (DBAs): Manage database performance, security, and backups.
 
 ### 2. What is a relational database? Give 4 examples.
 A relational database organizes data into tables (rows and columns) with relationships between them.
